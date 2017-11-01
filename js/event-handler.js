@@ -12,18 +12,15 @@ function checkUsername() {
   }
 }
 
+
+
+
+
+
+
+
+
 // GET THE INPUT VALUE FROM THE USERNAME FIELD
 var elUsername = document.getElementById('username');
 // WHEN THE FIELD LOSES FOCUS, CALL checkUsername()
 elUsername.onblur = checkUsername;
-
-/*
-
-Does this affect the ratio in github????
-Does this affect the ratio in github????
-Does this affect the ratio in github????
-Does this affect the ratio in github????
-Does this affect the ratio in github????
-Does this affect the ratio in github????
-
-*/
