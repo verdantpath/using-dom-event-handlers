@@ -12,7 +12,16 @@ function checkUsername() {
   }
 }
 
+/*
 
+Does this affect the ratio in github????
+Does this affect the ratio in github????
+Does this affect the ratio in github????
+Does this affect the ratio in github????
+Does this affect the ratio in github????
+Does this affect the ratio in github????
+
+*/
 
 
 
